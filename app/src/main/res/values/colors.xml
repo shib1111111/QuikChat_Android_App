@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#BF00FF</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="blue">#2196F3</color> <!-- Material Blue -->
+    <color name="green">#4CAF50</color> <!-- Material Green -->
+    <color name="orange">#FF9800</color> <!-- Material Orange -->
+    <color name="red">#FF0000</color> <!-- Red -->
+    <color name="yellow">#FFEB3B</color> <!-- Yellow -->
+    <color name="teal">#009688</color> <!-- Material Teal -->
+    <color name="indigo">#3F51B5</color>
+    <color name="turquoise">#00E4E3</color>
+    <color name="darkblue">#05001E</color>
+</resources>
